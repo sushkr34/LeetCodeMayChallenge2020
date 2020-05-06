@@ -24,7 +24,7 @@ class Solution {
         if (flag==true){
             return ( s.indexOf(ch));
         }
-        return 0;
+        return -1;
     
 
     }
